@@ -1,0 +1,15 @@
+E:\python_file\C#\多线程-双色球实战\bin\Debug\多线程-双色球实战.exe.config
+E:\python_file\C#\多线程-双色球实战\bin\Debug\多线程-双色球实战.exe
+E:\python_file\C#\多线程-双色球实战\bin\Debug\多线程-双色球实战.pdb
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.csproj.AssemblyReference.cache
+E:\python_file\C#\多线程-双色球实战\obj\Debug\MainWindow.g.cs
+E:\python_file\C#\多线程-双色球实战\obj\Debug\App.g.cs
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战_MarkupCompile.cache
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战_MarkupCompile.lref
+E:\python_file\C#\多线程-双色球实战\obj\Debug\MainWindow.baml
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.g.resources
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程_双色球实战.Properties.Resources.resources
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.csproj.GenerateResource.cache
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.csproj.CoreCompileInputs.cache
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.exe
+E:\python_file\C#\多线程-双色球实战\obj\Debug\多线程-双色球实战.pdb
